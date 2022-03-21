@@ -1,0 +1,139 @@
+ {
+    "books" : [{
+        "id":1,
+        "title":"book 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 1
+     },
+     {
+        "id":2,
+        "title":"book 2",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 2
+     },
+     {
+        "id":3,
+        "title":"book 3",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 3
+     },
+    {
+        "id":5,
+        "title":"book 4",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 4
+     },
+     {
+        "id":6,
+        "title":"book 6",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 5
+     },
+     {
+        "id":7,
+        "title":"book 7",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 6
+     },
+    {
+        "id":8,
+
+        "title":"History 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 1
+     },
+     {
+        "id":9,
+
+        "title":"History 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 2
+     },
+     {
+        "id":10,
+
+        "title":"History 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "history",
+        "isbnNumber": 3
+     },
+     {
+        "id":11,
+        "title":"Mythology 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 4
+     },
+     {
+        "id":12,
+        "title":"Mythology 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 5
+     },
+     {
+        "id":13,
+        "title":"Mythology 1",
+        "imageUrl":"image Url",
+        "description":"Book desc",
+        "reviews":["multiple reviews here" ],
+        "author":"Book Author",
+        "price": 1234,
+        "section": "Mythology",
+        "isbnNumber": 6
+     }
+   ]
+ }
+ 
